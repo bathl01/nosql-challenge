@@ -17,5 +17,5 @@ Using count_documents, pprint and conversion to a data frame for each question b
 4. How many establishments in each Local Authority area have a hygiene score of 0?
 # Acknowledgements
 #
-Generative AI - explanation of Markdown cells in Jupiter Notebook
-Xpert Learning Assistant - fix error doing mongoimport 
+. Generative AI - explanation of Markdown cells in Jupiter Notebook
+. Xpert Learning Assistant - fix error doing mongoimport 
