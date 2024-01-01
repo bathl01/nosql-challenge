@@ -16,6 +16,5 @@ Using count_documents, pprint and conversion to a data frame for each question b
 3. What are the top 5 establishments with a RatingValue of 5, sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"?
 4. How many establishments in each Local Authority area have a hygiene score of 0?
 # Acknowledgements
-#
-. Generative AI - explanation of Markdown cells in Jupiter Notebook
-. Xpert Learning Assistant - fix error doing mongoimport 
+1. Generative AI - explanation of Markdown cells in Jupiter Notebook
+2. Xpert Learning Assistant - fix error doing mongoimport 
